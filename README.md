@@ -15,3 +15,14 @@ This menu allows customers to choose whether they want to purchase an item from 
 ![show customer inventory](/bamazonscreenshots/buy_options.png)
 
 ![customer buy](/bamazonscreenshots/customer_buy.png)
+
+### Bamazon manager application
+![manager menu](/bamazonscreenshots/main_menu_man.png)
+
+![view all products](/bamazonscreenshots/view_inventory.png)
+
+![view low inventory](/bamazonscreenshots/low_inventory_command.png)
+
+![add to inventory department list](/bamazonscreenshots/add_product_dept.png)
+
+![add to inventory](/bamazonscreenshots/add_product.png)
