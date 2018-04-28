@@ -23,6 +23,8 @@ This menu allows customers to choose whether they want to purchase an item from 
 
 ![view low inventory](/bamazonscreenshots/low_inventory_command.png)
 
+![add to inventory](/bamazonscreenshots/add_inventory.png)
+
 ![add to inventory department list](/bamazonscreenshots/add_product_dept.png)
 
 ![add to inventory](/bamazonscreenshots/add_product.png)
