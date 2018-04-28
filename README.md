@@ -9,8 +9,8 @@ to the store's inventory to accomplish different actions.
 
 ### Bamazon customer application
 
-![customer menu]('/bamazonscreenshots/mainmenu.png')
+![customer menu](/bamazonscreenshots/mainmenu.png)
 
 This menu allows customers to choose whether they want to purchase an item from the store or exit the application.
 
-![customer buy]('/bamazonscreenshots/customer_buy.png')
+![customer buy](/bamazonscreenshots/customer_buy.png)
