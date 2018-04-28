@@ -9,7 +9,7 @@ to the store's inventory to accomplish different actions.
 
 ### Bamazon customer application
 
-![customer menu](/bamazonscreenshots/mainmenu.png)
+![customer menu](/bamazonscreenshots/main_menu.png)
 
 This menu allows customers to choose whether they want to purchase an item from the store or exit the application.
 
