@@ -12,5 +12,6 @@ to the store's inventory to accomplish different actions.
 ![customer menu](/bamazonscreenshots/main_menu.png)
 
 This menu allows customers to choose whether they want to purchase an item from the store or exit the application.
+![show customer inventory](/bamazonscreenshots/buy_options.png)
 
 ![customer buy](/bamazonscreenshots/customer_buy.png)
