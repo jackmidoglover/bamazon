@@ -39,7 +39,7 @@ Above is an example of the list that is populated from the database giving manag
 
 ![view low inventory](/bamazonscreenshots/low_inventory_command.png)
 
-The manager can also search the database for inventory with a stock_quantity of less than 5.
+The manager can also search the database for inventory with a stock_quantity of 5 or less.
 
 ![add to inventory](/bamazonscreenshots/add_inventory.png)
 
